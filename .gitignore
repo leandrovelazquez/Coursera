@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Nested repo: github.com/leandrovelazquez/e-commerce-data-pipeline
+SQL/data-pipeline/
